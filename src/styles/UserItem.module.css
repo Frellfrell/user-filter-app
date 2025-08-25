@@ -1,0 +1,11 @@
+
+.userItem {
+  padding: 12px 16px;
+  border-bottom: 1px solid #eee;
+  font-size: 16px;
+  transition: background 0.2s;
+}
+.userItem:hover {
+  background: #f9f9f9;
+  cursor: pointer;
+}
