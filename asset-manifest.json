@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/user-filter-app/static/css/main.7eb86a18.css",
+    "main.js": "/user-filter-app/static/js/main.334658c4.js",
+    "index.html": "/user-filter-app/index.html",
+    "main.7eb86a18.css.map": "/user-filter-app/static/css/main.7eb86a18.css.map",
+    "main.334658c4.js.map": "/user-filter-app/static/js/main.334658c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eb86a18.css",
+    "static/js/main.334658c4.js"
+  ]
+}
